@@ -249,7 +249,7 @@ h2 + hr {
 /* ----- ELATED ----- */
 
 .elated img {
-    width: 100%;
+    width: 90%;
 }
 
 .elated .scroll-inertia-effect img {
@@ -257,7 +257,7 @@ h2 + hr {
     top: 0;
     left: 0;
     width: 100%;
-    height: 40%;
+    height: 30%;
 }
 
 .elated .scroll-inertia-effect img:last-of-type{
