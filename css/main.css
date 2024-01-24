@@ -5,6 +5,9 @@
   --slider-image-width: 300px;
   --border-color: rgba(0,0,0,.6);
 }
+p {
+    font-size: 18px;
+}
 
 body {
     color: rgb(50,50,50);
